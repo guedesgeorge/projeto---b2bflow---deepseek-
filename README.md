@@ -78,8 +78,10 @@ Saída esperada (a IA gera um texto diferente por contato):
 
 ## Demonstração
 
+Mensagens geradas pela IA (DeepSeek) e enviadas via Z-API:
+
 <p align="center">
-  <img src="assets/demo1.jpeg" alt="WhatsApp - George" width="280"/>
-  <img src="assets/demo2.jpeg" alt="WhatsApp - Maria" width="280"/>
-  <img src="assets/demo3.png" alt="Terminal - 3 de 3 enviadas" width="280"/>
+  <img src="assets/george.jpeg" alt="Mensagem IA - George" width="280"/>
+  <img src="assets/maria.jpeg" alt="Mensagem IA - Maria" width="280"/>
+  <img src="assets/joao.jpeg" alt="Mensagem IA - Joao" width="280"/>
 </p>
