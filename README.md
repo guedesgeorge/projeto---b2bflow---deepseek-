@@ -91,5 +91,5 @@ Saída esperada (a IA gera um texto diferente por contato):
 </p>
 
 <p align="center">
-  <img src="image/captura-terminal.png" alt="Captura do Terminal" width="450"/>
+  <img src="image/captura-terminal.png" alt="Captura do Terminal" width="300"/>
 </p>
