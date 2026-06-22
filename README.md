@@ -76,10 +76,7 @@ Saída esperada (a IA gera um texto diferente por contato):
 - Código modular: banco, IA, envio e orquestração separados.
 - A chave do DeepSeek só é exigida no fluxo de IA, sem quebrar o `main.py`.
 
-  ## Demostração dos Testes
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dddf97cd-be1f-4cb1-97b7-cc59ff28beba" alt="WhatsApp I" width="300"/>
-  <img src="https://github.com/user-attachments/assets/c5be6f9e-fe40-42b7-a3cf-bc08a0d4c828" alt="WhatsApp II" width="300"/>
-  <img src="https://github.com/user-attachments/assets/79a8e0f1-0bc4-47fa-b391-7fc0298a58e2" alt="WhatsApp III" width="300"/>
+  <p align="center">
+  <img src="assets/teste1.png" alt="WhatsApp I" width="300"/>
+  <img src="assets/teste2.png" alt="WhatsApp II" width="300"/>
 </p>
