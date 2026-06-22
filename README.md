@@ -79,7 +79,7 @@ Saída esperada (a IA gera um texto diferente por contato):
   ## Demostração dos Testes
 
 <p align="center">
-  <img src="image/imagem-whatsI.jpeg" alt="Demonstração I" width="300"/>
-  <img src="image/imagem-whatsII.jpeg" alt="Demonstração II" width="300"/>
-  <img src="image/imagem-whatsIII.jpeg" alt="Demonstração III" width="300"/>
+  <img src="https://github.com/user-attachments/assets/dddf97cd-be1f-4cb1-97b7-cc59ff28beba" alt="WhatsApp I" width="300"/>
+  <img src="https://github.com/user-attachments/assets/c5be6f9e-fe40-42b7-a3cf-bc08a0d4c828" alt="WhatsApp II" width="300"/>
+  <img src="https://github.com/user-attachments/assets/79a8e0f1-0bc4-47fa-b391-7fc0298a58e2" alt="WhatsApp III" width="300"/>
 </p>
