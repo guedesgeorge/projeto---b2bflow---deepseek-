@@ -78,18 +78,8 @@ Saída esperada (a IA gera um texto diferente por contato):
 
   ## Demostração dos Testes
 
-  <p align="center">
-  <img src="image/imagem-whatsI.jpeg" alt="Mensagem de Teste WhatsApp" width="300"/>
-</p>
-
 <p align="center">
+  <img src="image/imagem-whatsI.jpeg" alt="Demonstração I" width="300"/>
   <img src="image/imagem-whatsII.jpeg" alt="Demonstração II" width="300"/>
-</p>
-
-<p align="center">
   <img src="image/imagem-whatsIII.jpeg" alt="Demonstração III" width="300"/>
-</p>
-
-<p align="center">
-  <img src="image/captura-terminal.png" alt="Captura do Terminal" width="300"/>
 </p>
